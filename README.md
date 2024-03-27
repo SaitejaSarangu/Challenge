@@ -1,0 +1,1 @@
+Problem Statement: Given a sorted array of integers in non-decreasing order, you need to find two integers in the array that add up to a specific target and return the indices as [index1,index2]. Only one solution for each input.
